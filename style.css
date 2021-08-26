@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#p{
+    background-image: url("https://popcat.click/img/p.1e9d00be.png");
+    height: fit-content;
+    width: fit-content;
+}
+
+#op{
+    background-image: url("https://popcat.click/img/op.353767c3.png");
+    height: fit-content;
+    width: fit-content;
+}
